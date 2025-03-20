@@ -1,8 +1,8 @@
 = Rapport Virtual-Landscape 
 
-Rédigé par : Leny Gérance le _14 Mai 2023_
+Rédigé par : Samy ICHALALENE le _14 Mai 2023_
 
-IMPORTANT: lien github du projet : https://github.com/lenygerance/Virtual-Landscape.git[Virtual-Landscape]
+IMPORTANT: lien github du projet : https://github.com/Symresval/landscape-off.git[Virtual-Landscape]
 
 == Sommaire
 * Introdution
